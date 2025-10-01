@@ -1,31 +1,30 @@
-# 🧼 Landing Page – Servicio de Limpieza
+# React Next.js landing page
 
-Este proyecto es una landing page responsiva diseñada para promocionar servicios de limpieza profesional. Fue desarrollada por [Angel Munguía](https://github.com/Angel41182) con enfoque en claridad, accesibilidad y conversión de clientes.
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-## 🚀 Demo en vivo
-👉 [Ver sitio desplegado](https://angel41182.github.io/landing-page-limpieza/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/angel41182s-projects/v0-react-next-js-landing-page)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/p1nMCzgeZ5u)
 
-## 🛠️ Tecnologías utilizadas
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
+## Overview
 
-## 📱 Características
-- Diseño responsivo compatible con dispositivos móviles.
-- Botón flotante de WhatsApp para contacto rápido.
-- Formulario de contacto funcional.
-- Imágenes optimizadas para carga rápida.
-- Estilo limpio y profesional enfocado en servicios de limpieza.
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-## 📦 Estructura del proyecto
-├── index.html ├── assets/ │ ├── css/ │ ├── js/ │ └── img/ └── README.md
+## Deployment
 
+Your project is live at:
 
-## ✨ Autor
-**Angel Munguía**  
-Estudiante de Ingeniería en Software | Desarrollador freelance  
-[GitHub](https://github.com/Angel41182) | [LinkedIn](#) | [Upwork](#)
+**[https://vercel.com/angel41182s-projects/v0-react-next-js-landing-page](https://vercel.com/angel41182s-projects/v0-react-next-js-landing-page)**
 
-## 📄 Licencia
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y adaptarlo libremente.
+## Build your app
+
+Continue building your app on:
+
+**[https://v0.app/chat/projects/p1nMCzgeZ5u](https://v0.app/chat/projects/p1nMCzgeZ5u)**
+
+## How It Works
+
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
