@@ -8,7 +8,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "CleanPro",
-  description: "Created with v0",
+  description: "Created by Angel Munguia",
   generator: "v0.app",
 }
 
